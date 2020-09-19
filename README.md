@@ -12,4 +12,4 @@ Deployed at: _https://ipl-batting-total-prediction.herokuapp.com/_
 
 
 
-![Heroku-Error](readme_resources/application-error-heroku.png)
+
